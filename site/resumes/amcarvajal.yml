@@ -1,0 +1,99 @@
+template: "online-cv"
+skin: "berry"
+
+# Personal Information
+basic_info:
+  # Your full name
+  first_name: Miguel Angel
+  last_name: Carvajal Gonzalez
+
+  # Define yourself in 4-5 words
+  motto: Enthusiast of whatever
+
+  # focus
+  focus: Family, sports & codecodecodecodecodecode
+
+  # You have 1 paragraph to make a great impression, summarize your career.
+  summary: Computer technician & front end developer, in sale just for today
+
+  # Your profile picture URL
+  # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+  avatar: https://avatars.githubusercontent.com/u/36669778?v=4
+
+  # Contact Information
+  email: amcarvajal15@gmail.com #optional
+  phone: nophoneadded #optional
+  website: http://migue-carvajal.com/ #optional
+  linkedin: https://www.linkedin.com/in/miguel-carvajal-gonzalez #optional
+
+  #
+  # ******** IMPORTANT *******
+  # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+  github: amcarvajal
+
+  twitter: "not" #optional
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+  # languages you speak, levels inculde: Native, Professional
+  languages:
+    - idiom: Spanish
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+    - idiom: Dutch
+      level: Mid-high
+
+  # Interests or hobies
+  interests:
+    - item: Music
+
+    - item: Cooking
+
+    - item: Contact sports
+
+# Your previous education
+education:
+  - degree: Medium degree in Microinformatics systems and Networks
+    university: IES Hermanos Machado
+    # optional
+    university_logo:
+    time: 2011 - 2014
+    details: |
+      Medium degree in Microinformatics systems and Networks
+
+# Your previous job experiences or voluntier
+experiences:
+  - role: waiter
+    time: 2016 - 2020
+    company: Hotels and bars
+    # optional
+    company_logo:
+    details: |
+
+# Your project portfolio
+projects:
+  intro: >
+    http://migue-carvajal.com/
+  assignments:
+
+skills:
+  toolset:
+    - name: Python & Django
+      level: 30%
+
+    - name: Javascript & jQuery
+      level: 80%
+
+    - name: React
+      level: 90%
+
+    - name: HTML5 & CSS
+      level: 100%
+
+    - name: Ruby on Rails
+      level: 50%
+
+    - name: Figma & Photoshop
+      level: 40%
